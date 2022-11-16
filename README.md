@@ -1,4 +1,4 @@
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bree+Serif&size=25&pause=1000&color=5000F7&width=435&lines=Hello+World!;Myself+Aswin+P+Kumar)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bree+Serif&size=25&pause=1000&color=5000F7&width=435&lines=Hello+World!;Myself+Aswin+P+Kumar)](www.linkedin.com/in/aswinpkumarvit)
 - 
 - 
 - 
