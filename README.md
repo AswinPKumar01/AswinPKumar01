@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aswin P Kumar</h1>
 <h3 align="center">A second year undergrad at VITB</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&vCenter=true&width=435&lines=Flutter+Developer;AIML+Engineer;Python;Kotlin;OpenCV;TensorFlow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&center=true&vCenter=true&width=435&lines=Flutter+Developer;AIML+Engineer;Python;Kotlin;OpenCV;TensorFlow)](https://git.io/typing-svg)
 
 
 <h4> 🎯 A second year undergrad at VITB </h4>
