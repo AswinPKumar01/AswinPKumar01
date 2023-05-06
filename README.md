@@ -6,10 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-aswinpkumar03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinpkumar03@gmail.com)](mailto:aswinpkumar03@gmail.com)
 
 
-<h4> 🎯 A second year undergrad at VITB </h4>
-<h4> <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/android.png" width> Android Developer </h4>
-<h4> 🐍 Python Programmer </h4>
-<h4> 🔗 Connect me on linkedin: www.linkedin.com/in/aswinpkumarvit </h4>
+<h4> ❤️ A second year undergrad at VITB </h4>
+<h4> 💙 Android Developer </h4>
+<h4> 💚 Python Programmer </h4>
+<h4> 🤎 AIML Enthusiast </h4>
 
 <!---
 AswinPKumar01/AswinPKumar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
