@@ -7,7 +7,7 @@
 
 
 <h4> 🎯 A second year undergrad at VITB </h4>
-<h4> <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/android.png" width = 30px> Android Developer </h4>
+<h4> <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/android.png" width> Android Developer </h4>
 <h4> 🐍 Python Programmer </h4>
 <h4> 🔗 Connect me on linkedin: www.linkedin.com/in/aswinpkumarvit </h4>
 
