@@ -35,8 +35,6 @@
 
 ## Language and Tools ⚒️
 
-<br/>
-
 <table width="320px">
     <tbody>
         <tr valign="top">
