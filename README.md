@@ -18,11 +18,13 @@
 
 <br/>
 
-<div style="display: flex; flex-direction: row;">
+<div class = "container">  
+ 
 <img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
 &nbsp;
 &nbsp;
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" /></div>
+
 </div>
 
 <br/>
