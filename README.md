@@ -10,6 +10,9 @@
  [![Instagram Badge](https://img.shields.io/badge/-@a_s_w._in_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=[https://instagram.com/maddhruv](https://www.instagram.com/a_s_w._in_/))](https://instagram.com/a_s_w._in_/) [![Linkedin Badge](https://img.shields.io/badge/-aswinpkumarvit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswinpkumarvit/)](https://www.linkedin.com/in/aswinpkumarvit/)
 [![Gmail Badge](https://img.shields.io/badge/-aswinpkumar03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinpkumar03@gmail.com)](mailto:aswinpkumar03@gmail.com)
 
+<br/>
+
+## About Me
 
 <h4> ❤️ A second year undergrad at VITB </h4>
 <h4> 💙 Android Developer </h4>
@@ -27,6 +30,8 @@
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" /></div>
 
 </div>
+
+<br/>
 
 ## Language and Tools ⚒️
 
@@ -81,14 +86,10 @@
     </tbody>
 </table>
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AswinPKumar01)
+<br/>
 <p align="center"> 
- <br> Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AswinPKumar01/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
 </p>
-
-
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
