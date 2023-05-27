@@ -12,7 +12,7 @@
 
 <br/>
 
-## About Me
+## About Me 😃
 
 <h4> ❤️ A second year undergrad at VITB </h4>
 <h4> 💙 Android Developer </h4>
@@ -90,6 +90,8 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
 </p>
+
+
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
