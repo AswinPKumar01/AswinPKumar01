@@ -18,6 +18,7 @@
 
 <br/>
 
+## My Github Stats 🏆
 <div class = "container">  
  
 <img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
@@ -27,9 +28,66 @@
 
 </div>
 
+## Language and Tools ⚒️
+
 <br/>
 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Flutter</strong></span><br>  
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Kotlin</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Dart</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jupyter</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TensorFlow</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>OpenCV</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>AS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+         </td>
+        </tr>
+    </tbody>
+</table>
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AswinPKumar01)
+<p align="center"> 
+ <br> Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AswinPKumar01/count.svg" />
+</p>
+
 
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
