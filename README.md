@@ -18,7 +18,7 @@
 
 <br/>
 
-<div class='container'>
+<div style="display: flex; flex-direction: row;">
 <img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
 &nbsp;
 &nbsp;
