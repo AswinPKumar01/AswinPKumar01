@@ -16,18 +16,25 @@
 <h4> 💚 Python Programmer </h4>
 <h4> 🤎 AIML Enthusiast </h4>
 
+
+<div class='container'>
+<img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
+&nbsp;
+&nbsp;
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" /></div>
+</div>
+
 <br/>
 
- 
+![Profile View Counter](https://komarev.com/ghpvc/?username=AswinPKumar01)
+
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true)
-
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AswinPKumar01)
-
-
+ -->
+ 
 <!---
 AswinPKumar01/AswinPKumar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
