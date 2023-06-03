@@ -1,9 +1,8 @@
-name: Greet GitHub Users
+name: Greet GitHub Visitors
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   greet:
@@ -23,10 +22,3 @@ jobs:
       - name: Generate Greeting
         run: node greet.js
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'Aswin P Kumar'
-          git config --global user.email 'aswinpkumar03@gmail.com'
-          git add .
-          git commit -m 'Update greeting'
-          git push
