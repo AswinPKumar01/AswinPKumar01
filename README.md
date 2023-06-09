@@ -91,6 +91,9 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
 </p>
+
+![snake gif](https://github.com/AswinPKumar01/AswinPKumar01/blob/output/github-contribution-grid-snake.gif)
+
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true)
