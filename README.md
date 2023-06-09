@@ -19,7 +19,14 @@
 
 <br/>
 
+
+
+[![Hits](https://u8views.com/api/v1/github/profiles/118362715/views/day-week-month-total-count.svg)](https://u8views.com/github/AswinPKumar01)
+
 ## My Github Stats 🏆
+
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=AswinPKumar01&show_icons=true&theme=dracula&hide_rank=true&hide_border=true" />
+
 <div class = "container">  
 <img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
 &nbsp;
