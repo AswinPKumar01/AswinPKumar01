@@ -19,26 +19,6 @@
 
 <br/>
 
-
-## My Github Stats 🏆
-
-
-<div class = "container">  
-<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=AswinPKumar01&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" />
- 
-&nbsp;
-&nbsp;
- 
-<img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
- 
-&nbsp;
-&nbsp;
- 
-<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" /></div>
-</div>
-
-<br/>
-
 ## Language and Tools ⚒️
 
 <br/>
@@ -93,17 +73,34 @@
 </table>
 <br/>
 
-[![Hits](https://u8views.com/api/v1/github/profiles/118362715/views/day-week-month-total-count.svg)](https://u8views.com/github/AswinPKumar01)
+## My Github Stats 🏆
+
+<br/>
+
+<div class = "container">  
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=AswinPKumar01&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" />
+ 
+<img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
+ 
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" /></div>
+</div>
+
+
+### Needs more days to fill his tummy! 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake.svg">
+</picture>
+<br/>
+<br/>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
 </p>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/output/github-contribution-grid-snake.gif" />
-</picture>
+
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true)
