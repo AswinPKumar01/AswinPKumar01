@@ -22,7 +22,7 @@
 
 ## My Github Stats 🏆
 
-<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=AswinPKumar01&show_icons=true&theme=dracula&hide_rank=true&hide_border=true" />
+<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=AswinPKumar01&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" />
 
 <div class = "container">  
 <img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=AswinPKumar01&theme=dracula&hide_border=true" />
@@ -92,8 +92,12 @@
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
 </p>
 
-![snake gif](https://github.com/AswinPKumar01/AswinPKumar01/blob/output/github-contribution-grid-snake.gif)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/output/github-contribution-grid-snake.gif" />
+</picture>
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true)
