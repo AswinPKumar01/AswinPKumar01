@@ -85,7 +85,7 @@
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" /></div>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinPKumar01&theme=github-compact)](https://github.com/AswinPKumar01/github-readme-activity-graph)
+[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinPKumar01&theme=github-compact&height=350&hide_border=true)](https://github.com/AswinPKumar01/github-readme-activity-graph)
 
 ### Needs more days to fill his tummy! 
 <picture>
