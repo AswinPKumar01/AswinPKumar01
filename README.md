@@ -85,17 +85,16 @@
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" />
 
 <img style="height = auto; width: auto;" class="img" src="https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark" />
- 
- 
 </div>
 </div>
 
+<br/>
 <!-- [![Aswin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
  -->
 
 [![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinPKumar01&theme=github-compact&height=350&hide_border=true)](https://github.com/AswinPKumar01/github-readme-activity-graph)
 
-
+<br/>
 
 
 <p align="center"> <strong><em><sub align="center"> Feeding more days to fill his tummy! </sub></strong></em> </p>
@@ -111,7 +110,7 @@
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
 </p>
 
-
+<br/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- -
