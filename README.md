@@ -108,10 +108,17 @@
 <br/>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
+<br/>
+ <br/>
+ </p>
+<p align ="center">
+ <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/badge.svg" >
 </p>
 
-<br/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ 
+
+
 
 <!-- -
 [![GitHub Streak](https://streak-stats.demolab.com?user=AswinPKumar01&theme=onedark&hide_border=true)](https://git.io/streak-stats)
