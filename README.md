@@ -84,7 +84,7 @@
  
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" />
 
-<img style="height = 80%; width: 50%;" class="img" src="https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark" />
+<img style="height = 80%; width: 55%;" class="img" src="https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark" />
 </div>
 </div>
 
