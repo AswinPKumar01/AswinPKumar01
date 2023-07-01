@@ -95,7 +95,9 @@
 [![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinPKumar01&theme=github-compact&height=350&hide_border=true)](https://github.com/AswinPKumar01/github-readme-activity-graph)
 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=AswinPKumar01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align = "center">
+ <img src="https://github-profile-trophy.vercel.app/?username=AswinPKumar01&no-frame=true&no-bg=true&column=-1&theme=monokai" />
+</p>
 
 <p align="center"> <strong><em><sub align="center"> Feeding more days to fill his tummy! </sub></strong></em> </p>
 
