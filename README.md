@@ -1,4 +1,6 @@
-<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>
+<p align = "center">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height= "500" width="800" alt ="There was supposed to be a <q>Hello</q> here">
+</p>
 
 <br/>
 
