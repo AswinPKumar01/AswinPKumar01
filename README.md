@@ -83,7 +83,7 @@
 <br/>
 
 
-## Github stats <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" height = "40" width="40"> 
+## Github stats <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/Statistics.gif" height = "30" width="40"> 
 
 <br/>
 
