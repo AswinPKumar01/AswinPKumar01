@@ -2,11 +2,6 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height= 600 width= 1000 alt ="There was supposed to be a Hello here">
 </p>
 
-<br/>
-
-<h1 align = "center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> &nbsp; Welcome to my github page &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> </h1>
-
-
 <br><br/>
 
 
@@ -19,8 +14,7 @@
 <br/>
 <br/>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>  About me
-<br/>
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> About me
 
 <h4> ❤️ A second year undergrad at VITB </h4>
 <h4> 💙 Android Developer </h4>
@@ -81,7 +75,6 @@
     </tbody>
 </table>
 <br/>
-
 
 ## Github stats <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/Statistics.gif" height = "30" width="40"> 
 
