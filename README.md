@@ -1,19 +1,27 @@
 <p align = "center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height= "500" width="800" alt ="There was supposed to be a <q>Hello</q> here">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height= 600 width= 1000 alt ="There was supposed to be a Hello here">
 </p>
 
 <br/>
 
+<h1 align = "center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> &nbsp; Welcome to my github page &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> </h1>
+
+
+<br><br/>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&vCenter=true&width=435&lines=Flutter+Developer;AIML+Engineer;Python;Kotlin;OpenCV;TensorFlow)](https://git.io/typing-svg)
 
-<br/>
 
  [![Instagram Badge](https://img.shields.io/badge/-@a_s_w._in_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=[https://instagram.com/maddhruv](https://www.instagram.com/a_s_w._in_/))](https://instagram.com/a_s_w._in_/) [![Linkedin Badge](https://img.shields.io/badge/-aswinpkumarvit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswinpkumarvit/)](https://www.linkedin.com/in/aswinpkumarvit/)
 [![Gmail Badge](https://img.shields.io/badge/-aswinpkumar03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinpkumar03@gmail.com)](mailto:aswinpkumar03@gmail.com)
 
 <br/>
+<br/>
 
-## About Me 😃
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>  About me
+<br/>
+
 <h4> ❤️ A second year undergrad at VITB </h4>
 <h4> 💙 Android Developer </h4>
 <h4> 💚 Python Programmer </h4>
@@ -21,8 +29,7 @@
 
 <br/>
 
-## Language and Tools ⚒️
-
+## Language and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height = "30" width="30">
 <br/>
 
 <table width="320px">
@@ -75,7 +82,8 @@
 </table>
 <br/>
 
-## My Github Stats 🏆
+
+## Github stats <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" height = "40" width="40"> 
 
 <br/>
 
