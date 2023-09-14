@@ -1,9 +1,6 @@
-<p align = "center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height= 600 width= 1000 alt ="There was supposed to be a Hello here">
-</p>
+<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>
 
-<br><br/>
-
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&vCenter=true&width=435&lines=Flutter+Developer;AIML+Engineer;Python;Kotlin;OpenCV;TensorFlow)](https://git.io/typing-svg)
 
