@@ -80,6 +80,16 @@
         </tr>
     </tbody>
 </table>
+
+<br/>
+
+
+## Wall of badges
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "100%">
+<img src = "https://holopin.me/theapk">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "100%">
+
 <br/>
 
 ## Github stats <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/Statistics.gif" height = "30" width="40"> 
@@ -100,13 +110,19 @@
 <br/>
 <!-- [![Aswin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Aswin_Pradeep&theme=dark)](https://github.com/AswinPKumar01/github-readme)
  -->
+ 
+<br/>
 
 [![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AswinPKumar01&theme=github-compact&height=350&hide_border=true)](https://github.com/AswinPKumar01/github-readme-activity-graph)
 
 <br/>
+
 <p align = "center">
  <img src="https://github-profile-trophy.vercel.app/?username=AswinPKumar01&no-frame=true&no-bg=true&column=-1&theme=monokai" />
 </p>
+
+<br/>
+
 
 <p align="center"> <strong><em><sub align="center"> Feeding more days to fill his tummy! </sub></strong></em> </p>
 
@@ -115,7 +131,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake.svg">
 </picture>
-<br/>
+
 <br/>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
