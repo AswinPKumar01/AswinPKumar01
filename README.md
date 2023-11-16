@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px> About me
+## About me <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = "30" > 
 
 <h4> ❤️ A second year undergrad at VITB </h4>
 <h4> 💙 Android Developer </h4>
