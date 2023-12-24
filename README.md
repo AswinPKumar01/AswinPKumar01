@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>
+[<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>](https://linktr.ee/aswinpkumar)
 
 <br/>
 
@@ -7,7 +7,6 @@
 [![Instagram Badge](<https://img.shields.io/badge/-@a_s_w._in_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=[https://instagram.com/maddhruv](https://www.instagram.com/a_s_w._in_/)>)](https://instagram.com/a_s_w._in_/) [![Linkedin Badge](https://img.shields.io/badge/-aswinpkumarvit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswinpkumarvit/)](https://www.linkedin.com/in/aswinpkumarvit/)
 [![Gmail Badge](https://img.shields.io/badge/-aswinpkumar03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinpkumar03@gmail.com)](mailto:aswinpkumar03@gmail.com)
 
-<br/>
 <br/>
 
 ## About me <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = "30" >
