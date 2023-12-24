@@ -1,5 +1,4 @@
-[<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>](https://linktr.ee/aswinpkumar)
-
+<h1 align="center"> Hello <img src = "https://github.com/AswinPKumar01/AswinPKumar01/blob/main/hand%20wave.gif" width = 30px> I'm Aswin P Kumar</h1>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&vCenter=true&random=false&width=435&lines=Software+Developer;AIML+Enthusiast;Python;React;Flutter;OpenCV;TensorFlow)](https://git.io/typing-svg)
