@@ -123,12 +123,11 @@
 
 <p align="center"> <strong><em><sub align="center"> Feeding more days to fill his tummy! </sub></strong></em> </p>
 
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/output/github-contribution-grid-snake.svg">
-</picture>
+<div align = "center">
+    
+![snake gif](https://raw.githubusercontent.com/AswinPKumar01/AswinPKumar01/86b06c62c4957d614848c28d956db4dc80c131ca/github-snake-dark.svg)
 
+</div>
 <br/>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AswinPKumar01" />
