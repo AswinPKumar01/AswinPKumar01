@@ -82,6 +82,25 @@
 
 <br/>
 
+## Coding Profiles <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height = "30" width="30">
+
+<br/>
+<table width="320px">
+    <tbody align = "center" >
+        <tr align="center">
+             <td width="180px" align="center">
+            <img align = "center" width = "130px" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/Aswin_Pradeep/" >
+            </td>
+            <td width="180px" align="center">
+            <img align = "center" width = "150px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/aswinpkumar03/" >
+            </td>
+            <td width="180px" align="center">
+            <img align = "center" width = "130px" src="https://img.shields.io/badge/-Hackerrank-0B0B7F?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/aswinpkumar03" >
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## Wall of badges <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="50">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "100%">
