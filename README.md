@@ -82,7 +82,7 @@
 
 <br/>
 
-## Coding Profiles <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/coding.gif?raw=true" height = "30" width="30">
+## Coding Profiles <img src="https://github.com/AswinPKumar01/AswinPKumar01/blob/main/coding1.gif?raw=true" align = "bottom" height = "30" width="30">
 
 <br/>
 <table width="320px">
