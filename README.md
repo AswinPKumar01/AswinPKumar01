@@ -88,14 +88,21 @@
 <table width="320px">
     <tbody align = "center" >
         <tr align="center">
-             <td width="180px" align="center">
-            <img align = "center" width = "130px" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/u/Aswin_Pradeep/" >
-            </td>
-            <td width="180px" align="center">
-            <img align = "center" width = "150px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/aswinpkumar03/" >
-            </td>
-            <td width="180px" align="center">
-            <img align = "center" width = "130px" src="https://img.shields.io/badge/-Hackerrank-0B0B7F?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/aswinpkumar03" >
+<td width="180px" align="center">
+    <a href="https://leetcode.com/u/Aswin_Pradeep/" target="_blank">
+        <img align="center" width="130px" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+    </a>
+</td>
+<td width="180px" align="center">
+    <a href="https://www.geeksforgeeks.org/user/aswinpkumar03/" target="_blank">
+        <img align="center" width="150px" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+    </a>
+</td>
+<td width="180px" align="center">
+    <a href="https://www.hackerrank.com/profile/aswinpkumar03" target="_blank">
+        <img align="center" width="130px" src="https://img.shields.io/badge/-Hackerrank-0B0B7F?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
+</td>
             </td>
         </tr>
     </tbody>
