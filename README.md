@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&color=7825F7&vCenter=true&width=435&lines=Software+Developer;Software+Tester;Python+Coder;AI%2FML+Enthusiast;Cloud+Computing+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=44&duration=2500&pause=750&color=7825F7&vCenter=true&width=435&lines=Software+Developer;Software+Tester;Python+Coder;AI%2FML+Enthusiast;Cloud+Explorer)](https://git.io/typing-svg)
 
 [![Instagram Badge](<https://img.shields.io/badge/-@a_s_w._in_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=[https://instagram.com/maddhruv](https://www.instagram.com/a_s_w._in_/)>)](https://instagram.com/a_s_w._in_/) [![Linkedin Badge](https://img.shields.io/badge/-aswinpkumarvit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswinpkumarvit/)](https://www.linkedin.com/in/aswinpkumarvit/)
 [![Gmail Badge](https://img.shields.io/badge/-aswinpkumar03@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinpkumar03@gmail.com)](mailto:aswinpkumar03@gmail.com)
@@ -134,7 +134,7 @@
  
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" />
 
-<img style="height = auto; width: auto;" class="img" src="https://leetcard.jacoblin.cool/Aswin_Pradeep" />
+<img style="height = auto; width: 55%;" class="img" src="https://leetcard.jacoblin.cool/Aswin_Pradeep" />
 </div>
 </div>
 
