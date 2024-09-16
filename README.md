@@ -134,7 +134,7 @@
  
 <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinPKumar01&layout=donut&theme=dracula&hide_border=true" />
 
-<img style="height = 100%; width: 53%;" class="img" src="https://leetcard.jacoblin.cool/Aswin_Pradeep" />
+<img style="height = 100%; width: 55%;" class="img" src="https://leetcard.jacoblin.cool/Aswin_Pradeep" />
 </div>
 </div>
 
